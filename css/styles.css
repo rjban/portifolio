@@ -1,0 +1,13 @@
+/* Global */
+@import url("./global/global.css");
+@import url("./global/header.css");
+@import url("./global/footer.css");
+
+/* utilities */
+@import url("./utilities/colors.css");
+@import url("./utilities/typography.css");
+
+/* home */
+@import url("./home/intro.css");
+@import url("./home/projects.css");
+@import url("./home/education.css");
