@@ -20,7 +20,7 @@
 }
 
 .header-list-item a {
-  color: var(--cor-5);
+  color: var(--color-6);
   padding-bottom: 4px;
   position: relative;
   display: inline-block;
@@ -35,7 +35,7 @@
   height: 2px;
   width: 100%;
   left: 0;
-  background-color: var(--cor-2);
+  background-color: var(--color-2);
   transition: 0.2s;
   transition-timing-function: ease-in-out;
   transform: scaleX(0);
@@ -59,7 +59,7 @@
 
   .header-list-item a {
     padding: 8px 12px;
-    background-color: var(--cor-1);
+    background-color: var(--color-1);
     border-radius: 4px;
     font-size: 1rem;
   }

@@ -1,8 +1,8 @@
 .footer {
-  background-color: var(--cor-6);
+  background-color: var(--color-6);
   padding-top: 40px;
   padding-bottom: 40px;
-  box-shadow: inset 0px -104px var(--cor-3);
+  box-shadow: inset 0px -104px var(--color-3);
 }
 
 .footer h2 {
@@ -19,7 +19,7 @@
 }
 
 .footer-items li a {
-  color: var(--cor-0);
+  color: var(--color-0);
   display: flex;
   gap: 10px;
 }
